@@ -1,4 +1,3 @@
-````markdown
 # Helwan National University  
 ## Computer Networks Project (COM204)  
 ### Scalable & Secure Campus Network Design
@@ -149,7 +148,7 @@ The routing strategy includes:
 
 ## Verification Commands
 
-```bash
+```
 show ip route
 show ip protocols
 ````
@@ -178,7 +177,7 @@ Routing ensures seamless communication between all buildings and VLANs.
 
 # ⚙️ Sample Router Configuration
 
-```bash
+```
 enable
 configure terminal
 hostname HNU-CS
@@ -294,6 +293,3 @@ This project is submitted as coursework for COM204 – Computer Networks.
 ### Designed and Implemented By
 
 **Ibrahim Hamdy & Zeinab Ahmed**
-
-```
-```
